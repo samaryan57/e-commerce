@@ -1,0 +1,16 @@
+**********************************************
+
+
+		FARMERS ASSOCIATION OF BIA				
+
+Name of the Customer: aryan
+Date and Time of placing order: 2022-01-19 22:17:05.708224
+Produce ordered: french beans
+icode of the produce: 1003
+Amount(in tonnes) purchased: 2
+Price per kg of the produce ordered: 50
+Total due: 100000.0
+Thank you for placing the order, we look forward to see u again!
+
+
+*********************************************
